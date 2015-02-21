@@ -1,0 +1,17 @@
+.feature{
+    height: 100%;   
+}
+
+
+.clock-main{
+    height: 400px;
+}
+
+.custom-well-hover{
+    transition: background-color 1s ease;   
+}
+
+.custom-well-hover:hover{
+    background-color: #d0cbcb;  
+    cursor: pointer;
+}
